@@ -1,0 +1,7 @@
+accessory https://poe.ninja/api/Data/GetUniqueAccessoryOverview?league=
+armour https://poe.ninja/api/Data/GetUniqueArmourOverview?league=
+divination https://poe.ninja/api/Data/GetDivinationCardOverview?league=
+flask https://poe.ninja/api/Data/GetUniqueFlaskOverview?league=
+prophecy https://poe.ninja/api/Data/GetProphecyOverview?league=
+jewel https://poe.ninja/api/Data/GetUniqueJewelOverview?league=
+weapon https://poe.ninja/api/Data/GetUniqueWeaponOverview?league=
